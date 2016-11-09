@@ -3,3 +3,5 @@ Demo git
 new change
 
 Another Change
+
+Beautiful change
